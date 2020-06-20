@@ -7,6 +7,8 @@ This is a software made by me to be notified on songs that play on Aqua radio
 2. Inside the lib folder **cut** the file **NPinTexts.lua** and paste it in **(Where you have vlc installed)\lua\extensions**
 3. Run the jar file and click start aplication, if you decide to move the jar file somewhere else **MAKE SURE IT HAS THE lib folder with that other jar file in there**
 
+## Liked a song and wanna copy the name? just click the blue text
+
 ## Possible texts that might appear
 ### 1
 ![Issue 1](https://i.imgur.com/W5gRI9k.png)
