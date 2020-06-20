@@ -1,6 +1,10 @@
 # Aqua-NowPlaying
 This is a software made by me to be notified on songs that play on Aqua radio
 
+#### Version 1.1
+> **Changelog**
+> 1. Fixed spelling issue
+> 2. Notification auto-resizes to fit text
 
 ## Instalation guide
 1. Download the whole repository
